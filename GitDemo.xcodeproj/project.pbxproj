@@ -13,6 +13,7 @@
 		527C1865253F1C320013017F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527C1863253F1C320013017F /* Main.storyboard */; };
 		527C1867253F1C330013017F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 527C1866253F1C330013017F /* Assets.xcassets */; };
 		527C186A253F1C330013017F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527C1868253F1C330013017F /* LaunchScreen.storyboard */; };
+		527C1874253F1D0E0013017F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 527C1873253F1D0E0013017F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		527C1866253F1C330013017F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		527C1869253F1C330013017F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		527C186B253F1C330013017F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		527C1873253F1D0E0013017F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				527C185F253F1C320013017F /* SceneDelegate.swift */,
 				527C1861253F1C320013017F /* ViewController.swift */,
 				527C1863253F1C320013017F /* Main.storyboard */,
+				527C1873253F1D0E0013017F /* .gitignore */,
 				527C1866253F1C330013017F /* Assets.xcassets */,
 				527C1868253F1C330013017F /* LaunchScreen.storyboard */,
 				527C186B253F1C330013017F /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527C1874253F1D0E0013017F /* .gitignore in Resources */,
 				527C186A253F1C330013017F /* LaunchScreen.storyboard in Resources */,
 				527C1867253F1C330013017F /* Assets.xcassets in Resources */,
 				527C1865253F1C320013017F /* Main.storyboard in Resources */,
