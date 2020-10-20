@@ -14,9 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Another print statement")
-        
+        print ("Hello GitHub")   
     }
-
-
 }
 
